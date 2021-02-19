@@ -47,6 +47,7 @@ img {
   display: block;
   background-color: #f5e4ad;
   text-align: center;
+  color: #000;
 }
 
 .main-nav a:hover {
